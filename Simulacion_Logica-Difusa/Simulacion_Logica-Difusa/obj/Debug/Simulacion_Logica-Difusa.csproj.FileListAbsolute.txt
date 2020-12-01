@@ -1,0 +1,6 @@
+C:\Users\PabloAdrianFuentes\Desktop\simulacion\Simulacion_Logica-Difusa\Simulacion_Logica-Difusa\bin\Debug\Simulacion_Logica-Difusa.exe.config
+C:\Users\PabloAdrianFuentes\Desktop\simulacion\Simulacion_Logica-Difusa\Simulacion_Logica-Difusa\bin\Debug\Simulacion_Logica-Difusa.exe
+C:\Users\PabloAdrianFuentes\Desktop\simulacion\Simulacion_Logica-Difusa\Simulacion_Logica-Difusa\bin\Debug\Simulacion_Logica-Difusa.pdb
+C:\Users\PabloAdrianFuentes\Desktop\simulacion\Simulacion_Logica-Difusa\Simulacion_Logica-Difusa\obj\Debug\Simulacion_Logica-Difusa.csprojResolveAssemblyReference.cache
+C:\Users\PabloAdrianFuentes\Desktop\simulacion\Simulacion_Logica-Difusa\Simulacion_Logica-Difusa\obj\Debug\Simulacion_Logica-Difusa.exe
+C:\Users\PabloAdrianFuentes\Desktop\simulacion\Simulacion_Logica-Difusa\Simulacion_Logica-Difusa\obj\Debug\Simulacion_Logica-Difusa.pdb
